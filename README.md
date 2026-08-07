@@ -172,5 +172,5 @@ Libraries:
 
 # Author
 
-[Your Name]
+Rebekah Song
 
