@@ -92,5 +92,5 @@ A final rollout decision should also consider:
 - Long-term purchasing behavior
 - Potential effects on other products
 
-This analysis focuses primarily on customer engagement and conversion behavior.x
+This analysis focuses primarily on customer engagement and conversion behavior.
 
